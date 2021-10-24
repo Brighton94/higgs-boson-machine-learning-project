@@ -18,3 +18,6 @@ However, here are some details to get started:
 - it can happen that for some entries some variables are meaningless or cannot be computed; in this case, their value is −999.0, which is outside the normal range of all variables
 
 _It appears that values such as missing values might have been replaced by the CERN scientists with an outlier. In particular what I noticed was that missing values or NAN entries (if any) might have been replaced with an outlier that is not in the range of the values of the features; the outlier used is −999_.
+
+
+I wrote a [blog post on medium](https://medium.com/mlearning-ai/the-higgs-boson-machine-learning-challenge-in-the-cern-large-hadron-collider-8520b709686d) to present my findings and insights. I basically describe what the problem is, the EDA that I did, why I used particluar the machine learnings and the results.
