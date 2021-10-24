@@ -9,7 +9,7 @@ The “signal” event here is the “tau tau decay of a Higgs boson” and “b
 
 ### 1.2 The Dataset
 
-The dataset was obtained from the CERN Open Data Portal. In the notebook I provide a list of what each feature means.
+The dataset was obtained from the [CERN Open Data Portal](http://opendata.cern.ch/record/328). In the notebook I provide a list of what each feature means.
 However, here are some details to get started:
 
 - all variables are floating point, except PRI_jet_num which is integer
